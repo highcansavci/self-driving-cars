@@ -8,4 +8,5 @@ It consists of 6 essential techniques:
 * Multi Task Learning
 * 3D Object Detecton
 * Bird's Eye View
+
 All of them are going to be implemented in this project.
